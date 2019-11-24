@@ -8,3 +8,5 @@ The user would enter what ID they would like to purchase and the quantity.
 They would be told if the product was in stock and how much the order cost. 
 OR they would be told "sorry we do not have enough stock."
 
+![image](Images/Bamazon.PNG)
+![image2](Images/Bamazon2.PNG)

@@ -50,7 +50,7 @@ function runSearch() {
     .prompt({
       name: "productID",
       type: "number",
-      message: "What itema(id) would you like to purchase?"
+      message: "What items(id) would you like to purchase?"
     })
     .then(function(answers) {
       var productId = answers.productID;
